@@ -48,6 +48,8 @@ public void redme() {
 @Test
 	public void blackBerry() {
 		System.out.println("blackBerry 59888 @Test");
+		System.out.println("hai mama");
+		System.out.println("hai bro");
 
 	}
 
